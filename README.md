@@ -20,13 +20,13 @@ I'm excited to join a product team where I can contribute, learn from others, an
       <img src="./assets/icons/frontend/react.svg" alt="React" height="44" />&nbsp;&nbsp;<img src="./assets/icons/frontend/typescript.svg" alt="TypeScript" height="44" />
     </td>
     <td>
-      <img src="./assets/icons/styles/tailwind.svg" alt="Tailwind" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/scss.svg" alt="SCSS" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/bem.svg" alt="BEM" height="44" />
+      <img src="./assets/icons/styles/scss.svg" alt="SCSS" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/bem.svg" alt="BEM" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/tailwind.svg" alt="Tailwind" height="44" />
     </td>
     <td>
       <img src="./assets/icons/architecture/fsd.svg" alt="FSD" height="44" />
     </td>
     <td>
-      <img src="./assets/icons/tools/git.svg" alt="Git" height="44" />&nbsp;&nbsp;<img src="./assets/icons/tools/vite.svg" alt="Vite" height="44" />
+      <img src="./assets/icons/tools/vite.svg" alt="Vite" height="44" />&nbsp;&nbsp;<img src="./assets/icons/tools/git.svg" alt="Git" height="44" />
     </td>
     <td>
       <img src="./assets/icons/deployment/netlify.svg" alt="Netlify" height="44" />&nbsp;&nbsp;<img src="./assets/icons/deployment/vercel.svg" alt="Vercel" height="44" />
