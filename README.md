@@ -1,24 +1,35 @@
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> Hey, I'm Sabyrzhan
 
+I'm a Frontend Developer passionate about crafting clean, responsive, and user-friendly web applications.  
+I specialize in modern web technologies and focus on building scalable, maintainable code.
+
+I'm excited to join a product team where I can contribute, learn from others, and continue growing as a developer.
+
+## <img src="./assets/gif/gears.gif" height="20" /> Tech Stack
+
 <table>
   <tr>
     <th>Frontend</th>
     <th>Styles</th>
     <th>Architecture</th>
+    <th>Tools</th>
     <th>Deployment</th>
   </tr>
   <tr>
     <td>
-      <img src="./icons/react.svg" alt="React" width="44" />&nbsp;&nbsp;<img src="./icons/typescript.svg" alt="TypeScript" width="44" />
+      <img src="./assets/icons/frontend/react.svg" alt="React" height="44" />&nbsp;&nbsp;<img src="./assets/icons/frontend/typescript.svg" alt="TypeScript" height="44" />
     </td>
     <td>
-      <img src="./icons/tailwind.svg" alt="Tailwind" width="44" />&nbsp;&nbsp;<img src="./icons/scss.svg" alt="SCSS" width="44" />&nbsp;&nbsp;<img src="./icons/bem.svg" alt="BEM" width="44" />
+      <img src="./assets/icons/styles/tailwind.svg" alt="Tailwind" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/scss.svg" alt="SCSS" height="44" />&nbsp;&nbsp;<img src="./assets/icons/styles/bem.svg" alt="BEM" height="44" />
     </td>
     <td>
-      <img src="./icons/fsd.svg" alt="FSD" width="44" />
+      <img src="./assets/icons/architecture/fsd.svg" alt="FSD" height="44" />
     </td>
     <td>
-      <img src="./icons/netlify.svg" alt="Netlify" width="44" />&nbsp;&nbsp;<img src="./icons/vercel.svg" alt="Vercel" width="44" />
+      <img src="./assets/icons/tools/git.svg" alt="Git" height="44" />&nbsp;&nbsp;<img src="./assets/icons/tools/vite.svg" alt="Vite" height="44" />
+    </td>
+    <td>
+      <img src="./assets/icons/deployment/netlify.svg" alt="Netlify" height="44" />&nbsp;&nbsp;<img src="./assets/icons/deployment/vercel.svg" alt="Vercel" height="44" />
     </td>
   </tr>
 </table>
